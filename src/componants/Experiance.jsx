@@ -5,7 +5,7 @@ import javascript from "../../public/javascript.png";
 import reactjs from "../../public/reactjs.png";
 import python from "../../public/python.webp";
 import java from "../../public/java.png";
-import mongodb from "../../public/mongoDB.jpg";
+import mongodb from "../../public/mongodb.jpg"
 import nodejs from "../../public/node.png";
 
 function Experiance() {
